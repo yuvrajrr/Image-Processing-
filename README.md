@@ -9,9 +9,9 @@ In order to run the program, you must use the following format: `./filter input.
 
 The kernel can be modified to achieve different outcomes (for more information visit https://en.wikipedia.org/wiki/Kernel_(image_processing))
 The file labeled kernel is formatted with:
-`n` `\n`
-`scale`
-`n x n matrix`
+`n`\ \newline
+`scale`\ \newline
+`n x n matrix`\ \newline
 
 
 
