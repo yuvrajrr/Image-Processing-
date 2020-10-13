@@ -8,7 +8,7 @@ Any image can be converted to a PPM file through online converters.
 In order to run the program, you must use the following format: `./filter input.ppm kernel output.ppm` where you replace input.ppm with the file that you are going to convert and output.ppm with the desired output filename.
 
 The kernel can be modified to achieve different outcomes (for more information visit https://en.wikipedia.org/wiki/Kernel_(image_processing))
-The file labeled kernel is formatted with:
+The file labeled kernel is formatted with: <br/>
 `n` <br/>
 `scale` <br/>
 `n x n matrix`
